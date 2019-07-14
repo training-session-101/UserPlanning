@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1f881bd-5b76-4e2c-be49-6bd2abaa9774" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/AddUser/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/template.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AddUser/src/main/java/com/practice/adduser/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/AddUser/pom.xml" />
+        <option value="$PROJECT_DIR$/AddUser/src/main/java/GatewayResponse.java" />
+        <option value="$PROJECT_DIR$/AddUser/src/main/java/App.java" />
+        <option value="$PROJECT_DIR$/AddUser/src/main/java/com/practice/adduser/App.java" />
+        <option value="$PROJECT_DIR$/AddUser/src/main/java/com/practice/domain/user/UserRequest.java" />
+        <option value="$PROJECT_DIR$/AddUser/src/main/java/com/practice/adduser/UserController.java" />
+        <option value="$PROJECT_DIR$/AddUser/src/test/java/com/practice/adduser/UserControllerTest.java" />
+        <option value="$PROJECT_DIR$/template.yaml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="UserPlanning" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="UserPlanning" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="963" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="UserPlanning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UserPlanning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UserPlanning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UserPlanning" type="462c0819:PsiDirectoryNode" />
+              <item name="AddUser" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UserPlanning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UserPlanning" type="462c0819:PsiDirectoryNode" />
+              <item name="AddUser" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/AddUser/src/main/java/com/practice" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/AddUser" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.practice.adduser" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/AddUser" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/AddUser/src/main/java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="AWS Lambda.[Local] UserController">
+    <configuration name="UserControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AddUser" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.adduser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.practice.adduser" />
+      <option name="MAIN_CLASS_NAME" value="com.practice.adduser.UserControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="[Local] UserController" type="aws.lambda" factoryName="Local" temporary="true" nameIsGenerated="true">
+      <option name="credentialProviderId" value="profile:default" />
+      <option name="regionId" value="us-east-1" />
+      <option name="logicalFunctionName" value="AddUserFunction" />
+      <option name="templateFile" value="$PROJECT_DIR$/template.yaml" />
+      <option name="useTemplate" value="true" />
+      <option name="input" value="{&#10;  &quot;body&quot;: &quot;{\&quot;test\&quot;:\&quot;body\&quot;}&quot;,&#10;  &quot;resource&quot;: &quot;/{proxy+}&quot;,&#10;  &quot;path&quot;: &quot;/path/to/resource&quot;,&#10;  &quot;httpMethod&quot;: &quot;POST&quot;,&#10;  &quot;queryStringParameters&quot;: {&#10;    &quot;foo&quot;: &quot;bar&quot;&#10;  },&#10;  &quot;pathParameters&quot;: {&#10;    &quot;proxy&quot;: &quot;path/to/resource&quot;&#10;  },&#10;  &quot;stageVariables&quot;: {&#10;    &quot;baz&quot;: &quot;qux&quot;&#10;  },&#10;  &quot;headers&quot;: {&#10;    &quot;Accept&quot;: &quot;text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8&quot;,&#10;    &quot;Accept-Encoding&quot;: &quot;gzip, deflate, sdch&quot;,&#10;    &quot;Accept-Language&quot;: &quot;en-US,en;q=0.8&quot;,&#10;    &quot;Cache-Control&quot;: &quot;max-age=0&quot;,&#10;    &quot;CloudFront-Forwarded-Proto&quot;: &quot;https&quot;,&#10;    &quot;CloudFront-Is-Desktop-Viewer&quot;: &quot;true&quot;,&#10;    &quot;CloudFront-Is-Mobile-Viewer&quot;: &quot;false&quot;,&#10;    &quot;CloudFront-Is-SmartTV-Viewer&quot;: &quot;false&quot;,&#10;    &quot;CloudFront-Is-Tablet-Viewer&quot;: &quot;false&quot;,&#10;    &quot;CloudFront-Viewer-Country&quot;: &quot;US&quot;,&#10;    &quot;Host&quot;: &quot;1234567890.execute-api.{dns_suffix}&quot;,&#10;    &quot;Upgrade-Insecure-Requests&quot;: &quot;1&quot;,&#10;    &quot;User-Agent&quot;: &quot;Custom User Agent String&quot;,&#10;    &quot;Via&quot;: &quot;1.1 08f323deadbeefa7af34d5feb414ce27.cloudfront.net (CloudFront)&quot;,&#10;    &quot;X-Amz-Cf-Id&quot;: &quot;cDehVQoZnx43VYQb9j2-nvCh-9z396Uhbp027Y2JvkCPNLmGJHqlaA==&quot;,&#10;    &quot;X-Forwarded-For&quot;: &quot;127.0.0.1, 127.0.0.2&quot;,&#10;    &quot;X-Forwarded-Port&quot;: &quot;443&quot;,&#10;    &quot;X-Forwarded-Proto&quot;: &quot;https&quot;&#10;  },&#10;  &quot;requestContext&quot;: {&#10;    &quot;accountId&quot;: &quot;123456789012&quot;,&#10;    &quot;resourceId&quot;: &quot;123456&quot;,&#10;    &quot;stage&quot;: &quot;prod&quot;,&#10;    &quot;requestId&quot;: &quot;c6af9ac6-7b61-11e6-9a41-93e8deadbeef&quot;,&#10;    &quot;identity&quot;: {&#10;      &quot;cognitoIdentityPoolId&quot;: null,&#10;      &quot;accountId&quot;: null,&#10;      &quot;cognitoIdentityId&quot;: null,&#10;      &quot;caller&quot;: null,&#10;      &quot;apiKey&quot;: null,&#10;      &quot;sourceIp&quot;: &quot;127.0.0.1&quot;,&#10;      &quot;cognitoAuthenticationType&quot;: null,&#10;      &quot;cognitoAuthenticationProvider&quot;: null,&#10;      &quot;userArn&quot;: null,&#10;      &quot;userAgent&quot;: &quot;Custom User Agent String&quot;,&#10;      &quot;user&quot;: null&#10;    },&#10;    &quot;resourcePath&quot;: &quot;/{proxy+}&quot;,&#10;    &quot;httpMethod&quot;: &quot;POST&quot;,&#10;    &quot;apiId&quot;: &quot;1234567890&quot;&#10;  }&#10;}" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="AWS Lambda.[Local] UserController" />
+        <item itemvalue="JUnit.UserControllerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1f881bd-5b76-4e2c-be49-6bd2abaa9774" name="Default Changelist" comment="" />
+      <created>1563090159924</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563090159924</updated>
+      <workItem from="1563090161183" duration="3799000" />
+      <workItem from="1563098443685" duration="889000" />
+      <workItem from="1563100948848" duration="2177000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="UserControllerTest - 2019.07.14 at 15h 20m 16s.xml">
+      <configuration name="UserControllerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserControllerTest - 2019.07.14 at 15h 21m 23s.xml">
+      <configuration name="UserControllerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserControllerTest - 2019.07.14 at 15h 21m 29s.xml">
+      <configuration name="UserControllerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserControllerTest - 2019.07.14 at 15h 23m 20s.xml">
+      <configuration name="UserControllerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserControllerTest - 2019.07.14 at 15h 23m 24s.xml">
+      <configuration name="UserControllerTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6865000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="963" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2893773" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="aws.explorer" order="7" side_tool="true" />
+      <window_info id="Learn" order="8" />
+      <window_info anchor="bottom" id="Build" sideWeight="0.498779" weight="0.84156144" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993895" weight="0.5487945" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39955604" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.9200244" visible="true" weight="0.6934558" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.07997558" side_tool="true" visible="true" weight="0.6934558" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.3778999" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2893773" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="aws.explorer" order="7" side_tool="true" />
+      <window_info id="Learn" order="8" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.54938954" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39955604" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.43628013" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.3778999" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/AddUser/src/main/java/com/practice/adduser/UserController.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/AddUser/src/main/java/com/practice/adduser/UserController.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/AddUser/src/main/java/com/practice/adduser/UserController.java</url>
+          <line>28</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/AddUser/src/main/java/com/practice/adduser/UserController.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/AddUser/src/main/java/com/practice/adduser/UserController.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/AddUser/src/test/java/com/practice/adduser/UserControllerTest.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/AddUser/src/test/java/com/practice/adduser/UserControllerTest.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>content</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>output</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>userName</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/AddUser/src/main/java/com/practice/domain/user/GatewayResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="75" selection-start-line="18" selection-start-column="75" selection-end-line="18" selection-end-column="75" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AddUser/src/test/java/com/practice/adduser/UserControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="52" lean-forward="true" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AddUser/src/main/java/com/practice/domain/user/UserRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AddUser/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AddUser/template.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AddUser/src/main/java/com/practice/adduser/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
